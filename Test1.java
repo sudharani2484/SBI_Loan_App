@@ -2,5 +2,6 @@ class Test1{
 
 public static void main(String[] args){
 system.out.println("Hi");
+int i=10;
 }
 }
